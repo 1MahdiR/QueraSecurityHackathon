@@ -16,7 +16,7 @@ The competition had a few flaws at designing the challenges but overall it was a
 
 Now... on to the writeups :) <br/>
 We didn't solve all the challenges but I will update the writeups when I find the solutions.
-If you any questions or suggestions regarding the writeups submit a new issue or make a pull request.
+If you have any questions or suggestions regarding the writeups submit a new issue or make a pull request.
 
 ## ‌
 
