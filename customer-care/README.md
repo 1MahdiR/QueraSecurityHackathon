@@ -9,7 +9,7 @@
 </p>
 
 This challenge was a simple sql injection vulnerability. 
-There is a text input in the main page. If you try special inputs like ```1' or 1=1 ; #'``` you will realize this input can be exploited with sql injection.
+There is a text input in the main page. If you try special inputs like ```1' or 1=1 ; #``` you will realize this input can be exploited with sql injection.
 
 <p align="center">
 <img src="page_2.png"/>
