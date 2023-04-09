@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-Looks like we just need to decode flag to get it. It looks like some characters from a table. Let's look up the code '2803' in unicode table.
+Looks like we just need to decode the flag to get it. It looks like some characters from a table. Let's look up the code '2803' in unicode table.
 <p align="center">
 <img src="uni.png"/>
 </p>
