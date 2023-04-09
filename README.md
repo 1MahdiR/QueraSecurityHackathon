@@ -18,60 +18,46 @@ Now... on to the writeups :) <br/>
 We didn't solve all the challenges but I will update the writeups when I find the solutions.
 If you any questions or suggestions regarding the writeups submit a new issue or make a pull request.
 
----
+## ‌
 
 ## Challenge 1: Blinker
 
----
 
 ## Challenge 2: Simple Wasm
 
----
 
 ## Challenge 3: Bad Token
 
----
 
 ## Challenge 4: Customer Care
 
----
 
 ## Challenge 5: P01NTLE55
 
----
 
 ## Challenge 6: app-fault-1
 
----
 
 ## Challenge 7: app-fault-2
 
----
 
 ## Challenge 8: Calculator
 
----
 
 ## Challenge 9: Login
 
----
 
 ## Challenge 10: Shop
 
----
 
 ## Challenge 11: CrackMe
 
----
 
 ## Challenge 12: DH Talk
 
----
 
 ## Challenge 13: Bit
 
----
 
 ## Challenge 14: Peaky Blinders
 
----
