@@ -4,7 +4,7 @@
 <img src="chall.png"/>
 </p>
 
-This challenge has 2 files. One of them is a binary executable file ([ws](#)) that is written in C and when you run it, it seems like it doesn't do anything but printing some line feeds ('\n') when you enter something. The other one ([pointless_thing](pointless_thing)) is a text file that is full of 'empty'.
+This challenge has 2 files. One of them is a binary executable file ([ws](ws)) that is written in C and when you run it, it seems like it doesn't do anything but printing some line feeds ('\n') when you enter something. The other one ([pointless_thing](pointless_thing)) is a text file that is full of 'empty'.
 
 <p align="center">
 <img src="term.png"/>
