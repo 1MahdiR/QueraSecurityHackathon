@@ -20,44 +20,44 @@ If you any questions or suggestions regarding the writeups submit a new issue or
 
 ## ‌
 
-## Challenge 1: Blinker
+## [Challenge 1: Blinker](blinker/)
 
 
-## Challenge 2: Simple Wasm
+## [Challenge 2: Simple Wasm](simple-wasm/)
 
 
-## Challenge 3: Bad Token
+## [Challenge 3: Bad Token](bad-token/)
 
 
-## Challenge 4: Customer Care
+## [Challenge 4: Customer Care](customer-care/)
 
 
-## Challenge 5: P01NTLE55
+## [Challenge 5: P01NTLE55](pointless/)
 
 
-## Challenge 6: app-fault-1
+## [Challenge 6: app-fault-1](app-fault-1/)
 
 
-## Challenge 7: app-fault-2
+## [Challenge 7: app-fault-2](app-fault-2/)
 
 
-## Challenge 8: Calculator
+## [Challenge 8: Calculator](calculator/)
 
 
-## Challenge 9: Login
+## [Challenge 9: Login](login/)
 
 
-## Challenge 10: Shop
+## [Challenge 10: Shop](shop/)
 
 
-## Challenge 11: CrackMe
+## [Challenge 11: CrackMe](crack-me/)
 
 
-## Challenge 12: DH Talk
+## [Challenge 12: DH Talk](dh-talk/)
 
 
-## Challenge 13: Bit
+## [Challenge 13: Bit ✈️](bit/)
 
 
-## Challenge 14: Peaky Blinders
+## [Challenge 14: Peaky Blinders](peaky-blinders/)
 
