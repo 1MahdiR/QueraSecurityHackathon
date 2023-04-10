@@ -30,7 +30,7 @@ Go straight to the application manifest file:
 <img src="Android Manifest.png"/>
 </p>
 
-and easily just change Lunch activity from "MainActivity" to "EmptyActivity":
+and easily just change Lunch activity from "MainActivity" to "EmptyActivity" by moving intent-filter tag:
 
 <p align="center">
 <img src="After.png"/>
