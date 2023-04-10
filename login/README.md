@@ -27,13 +27,13 @@ So without interruption, we go to decompiling the application, in this case i us
 Go straight to the application manifest file:
 
 <p align="center">
-<img src="Manifest.png"/>
+<img src="Android Manifest.png"/>
 </p>
 
 and easily just change Lunch activity from "MainActivity" to "EmptyActivity":
 
 <p align="center">
-<img src="after.png"/>
+<img src="After.png"/>
 </p>
 
 compile application and just open it you will see the string:
