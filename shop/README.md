@@ -19,7 +19,7 @@ after analyze application with "jadx" we found username and password here:
 login with username and password the from top-right click on menu half of flag is here:
 
 <p align="center">
-<img src="second.png"/>
+<img src="secend.png"/>
 </p>
 
 click on it and you will see the other part of flag:
