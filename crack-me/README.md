@@ -4,31 +4,33 @@
 <img src="challange.png"/>
 </p>
 
-install app and see this login screen:
+So we just need to find the username and password.
+
+When we install the app we see this login screen:
 
 <p align="center">
 <img src="login.png"/>
 </p>
 
-open app with jadx and find login activity so you can see this hashs:
+We open the apk file with jadx and find login activity and see these hashes:
 
 <p align="center">
 <img src="jadx.png"/>
 </p>
 
-use "from base64" to unhash username:
+Now we decode the username from base64:
 
 <p align="center">
 <img src="base46.png"/>
 </p>
 
-and some online md5 cracker stuff:
+And use [CrackStation](https://crackstation.net/) to crack the password which is hashed with md5:
 
 <p align="center">
 <img src="md5.png"/>
 </p>
 
-if you finde true username and password you can login:
+Now we have the username and password, therefore we have the flag.
 
 <p align="center">
 <img src="loged in.png"/>
