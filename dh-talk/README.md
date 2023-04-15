@@ -12,7 +12,7 @@ When we open the pcap file with "wireshark" we can see some entries have message
 
 <p align="center">
 <img src="follow.png"/>
-<p align="center">TCP stream of the pcap file clear text</p>
+<p align="center">TCP stream of the pcap file in clear text</p>
 </p>
 <br/>
 
