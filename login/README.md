@@ -4,27 +4,27 @@
 <img src="challange.png"/>
 </p>
 
-first of all we need to install the app, thats when we see this screen:
+After we install the app, we see this screen:
 
 <p align="center">
 <img src="login.png"/>
 </p>
 
-checking the application activities in jadx:
+Now we open the apk file in jadx to check the app activities:
 
 <p align="center">
 <img src="jadx.png"/>
 </p>
 
-we findout the "EmptyActivity" is what we want to access
+There are 3 activities and the "EmptyActivity" is what we want to access.
 
-So without interruption, we go to decompiling the application, in this case i use APK Easy Tool:
+So let's decompile the application with "APK Easy Tool":
 
 <p align="center">
 <img src="APK Easy Tool.png"/>
 </p>
 
-Go straight to the application manifest file:
+Now we go straight to the application manifest file:
 
 <p align="center">
 <img src="Android Manifest.png"/>
@@ -36,13 +36,15 @@ and easily just change Lunch activity from "MainActivity" to "EmptyActivity" by 
 <img src="After.png"/>
 </p>
 
-compile application and just open it you will see the string:
+Now we compile application and just open it. When we open the app we will see this string:
 
 <p align="center">
 <img src="Result.png"/>
 </p>
 
-decode string from Base64 and find the flag:
+Which looks like a base64.
+
+Now we just decode string from base64 and get the flag:
 
 <p align="center">
 <img src="decode.png"/>

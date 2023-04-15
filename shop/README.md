@@ -4,28 +4,28 @@
 <img src="challange.png"/>
 </p>
 
-after installing we see this page :
+After installing the app we see this page:
 
 <p align="center">
 <img src="login.png"/>
 </p>
 
-after analyze application with "jadx" we found username and password here:
+When we check the application with "jadx" we find the username and password here:
 
 <p align="center">
 <img src="jadx.png"/>
 </p>
 
-login with username and password the from top-right click on menu half of flag is here:
+Now we login with username and password. We can see half of the flag in the top-right menu:
 
 <p align="center">
 <img src="secend.png"/>
 </p>
 
-click on it and you will see the other part of flag:
+When we click on it we will see the other part of flag:
 
 <p align="center">
 <img src="first.png"/>
 </p>
 
-merge parts and decod it from Base64 to find the flag
+Now we just merge two parts of the flag and decode it from base64 to find the flag.
