@@ -19,7 +19,7 @@ open app with jadx and find login activity so you can see this hashs:
 use "from base64" to unhash username:
 
 <p align="center">
-<img src="base64.png"/>
+<img src="base46.png"/>
 </p>
 
 and some online md5 cracker stuff:
