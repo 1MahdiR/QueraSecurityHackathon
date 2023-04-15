@@ -54,7 +54,7 @@ Changing the "alg" value to "none" is basically telling the server that there is
 <img src="page8.png"/>
 </p> 
 
-Be sure to erase the third part of the token, but keep the last dot. This costs us hours to figure out :)
+Be sure to erase the third part of the token, but keep the last dot. This took us hours to figure out :)
 
 Now if we just refresh the page we can get the flag.
 
