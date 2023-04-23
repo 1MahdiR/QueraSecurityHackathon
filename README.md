@@ -15,49 +15,52 @@ The competition had a few flaws at designing the challenges but overall it was a
 
 
 Now... on to the writeups :) <br/>
-We didn't solve all the challenges but I will update the writeups when I find the solutions.
-If you have any questions or suggestions regarding the writeups submit a new issue or make a pull request.
+We didn't solve all the challenges but I will update the writeups when I find the solutions. (I marked the challenges we solved with ✅.)
 
-## ‌
+Also you can download the challenges attachments from [here](https://github.com/1MahdiR/QueraSecurityHackathon/raw/master/attachments/quera-security-hackathon-challenges-assets.zip) and the challenges statements from [here](https://github.com/1MahdiR/QueraSecurityHackathon/raw/master/attachments/quera-security-hackathon-challenges-statements.pdf).
 
-## [Challenge 1: Blinker](blinker/)
+If you have any questions or suggestions regarding the writeups submit a new issue or make a pull request. And also don't forget to star this repo ⭐ ;) 
+
+<br>
+
+## [Challenge 1: Blinker ✅](blinker/)
 
 
 ## [Challenge 2: Simple Wasm](simple-wasm/)
 
 
-## [Challenge 3: Bad Token](bad-token/)
+## [Challenge 3: Bad Token ✅](bad-token/)
 
 
-## [Challenge 4: Customer Care](customer-care/)
+## [Challenge 4: Customer Care ✅](customer-care/)
 
 
-## [Challenge 5: P01NTLE55](pointless/)
+## [Challenge 5: P01NTLE55 ✅](pointless/)
 
 
-## [Challenge 6: app-fault-1](app-fault-1/)
+## [Challenge 6: app-fault-1 ✅](app-fault-1/)
 
 
-## [Challenge 7: app-fault-2](app-fault-2/)
+## [Challenge 7: app-fault-2 ✅](app-fault-2/)
 
 
 ## [Challenge 8: Calculator](calculator/)
 
 
-## [Challenge 9: Login](login/)
+## [Challenge 9: Login ✅](login/)
 
 
-## [Challenge 10: Shop](shop/)
+## [Challenge 10: Shop ✅](shop/)
 
 
-## [Challenge 11: CrackMe](crack-me/)
+## [Challenge 11: CrackMe ✅](crack-me/)
 
 
-## [Challenge 12: DH Talk](dh-talk/)
+## [Challenge 12: DH Talk ✅](dh-talk/)
 
 
-## [Challenge 13: Bit ✈️](bit/)
+## [Challenge 13: Bit ✈️ ✅](bit/)
 
 
-## [Challenge 14: Peaky Blinders](peaky-blinders/)
+## [Challenge 14: Peaky Blinders ✅](peaky-blinders/)
 
