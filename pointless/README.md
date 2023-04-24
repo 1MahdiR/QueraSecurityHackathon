@@ -36,7 +36,7 @@ Let's try this with another character.
 
 When we enter 'b\n' the binary file give us :`\r\t\r\n\r\r\t\t`
 
-With a few more examples like this you will realize the binary file is basically a decoder that takes a character and gives it back as a string consisting line feeds, tabs, spaces or carriage returns.
+With a few more examples like this you will realize the binary file is basically a convertor that takes a character and gives it back as a string consisting line feeds, tabs, spaces or carriage returns.
 
 Now we just need to find ascii lowercase and uppercase letters and digits and punctuations output and finally 'encode' the 'pointless_thing' file and get the flag.
 
